@@ -1,0 +1,33 @@
+.top-wrap {
+    background-color: #f47983;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+.index-wrap {
+    font-size: 0.8em;
+}
+.search {
+    display: flex;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    height: 2rem;
+    &-left {
+        width: 60%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-radius: 2rem;
+        padding: 0 0.5rem;
+        background-color: #fff;
+        box-sizing: border-box;
+        .search-text {
+            margin-left: 0.3rem;
+            color: #999;
+        }
+    }
+    &-right {
+        width: 40%;
+    }
+}

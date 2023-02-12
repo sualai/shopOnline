@@ -1,0 +1,23 @@
+{
+	"miniprogramRoot": "dist/",
+	"projectname": "shopOnline",
+	"description": "在线逛附近商圈，支持在线客服，到店导航，免费配送，店家接单当天到货，退换无忧",
+	"appid": "touristappid",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"preloadBackgroundData": false,
+		"minified": false,
+		"newFeature": true,
+		"autoAudits": false,
+		"coverView": true,
+		"showShadowRootInWxmlPanel": false,
+		"scopeDataCheck": false,
+		"useCompilerModule": false
+	},
+	"compileType": "miniprogram",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {}
+}
